@@ -13,7 +13,7 @@ $formatterObject = new PlainNumberToCountingNumberFomatter();
 <br/><br/>
 <strong>South Asian Number System</strong>
   <br/>
-  <span style="text-align: justify;">If you want your number to be formatted as like south asian counting style then call <i>southAsianNumberSystemFormatter()</i> method</span>
+  <span style="text-align: justify;">If you want your number to be formatted as like south asian counting style ex. lakh, crore, etc. then call <i>southAsianNumberSystemFormatter()</i> method</span>
 <br/><br/>
   
 ```php
@@ -25,7 +25,7 @@ $result = $formatterObject->southAsianNumberSystemFormatter(123456789.34);
   
 <strong>International Number System</strong>
   <br/>
-  <span style="text-align: justify;">If you want your number to be formatted as like south international counting style then call <i>internationalNumberSystemFormatter()</i> method</span>
+  <span style="text-align: justify;">If you want your number to be formatted as like international counting style ex. million, billon, etc. then call <i>internationalNumberSystemFormatter()</i> method</span>
 <br/><br/>
 
 ```php
