@@ -1,12 +1,8 @@
 <?php
 
 /** 
- * Program Written by: Milan Tarami
+ * Script by: Milan Tarami
  * 
- * Portfolio : http://www.milantarami.com.np/
- * Facebook : https://www.facebook.com/milantarami.dev
- * Twitter : https://twitter.com/_milantarami
- * Github : https://github.com/milantarami
 **/
 
 class PlainNumberToCountingNumberFomatter 
