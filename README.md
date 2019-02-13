@@ -19,7 +19,7 @@ $formatterObject = new PlainNumberToCountingNumberFomatter();
 ```php
 $result = $formatterObject->southAsianNumberSystemFormatter(123456789.34);
 /**
-* @return string $result = 1,2345,67,89.34
+* @return string $result = 1,23,45,67,89.34
 **/
 ```
   
