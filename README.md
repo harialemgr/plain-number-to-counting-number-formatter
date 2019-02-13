@@ -1,6 +1,6 @@
 # Plain Number to Counting Number Formatter
 
-A simple php class that helps to format a number seperating by comma which make a counting easy.
+A simple php class that helps to format a number seperating by comma which make a counting easy. Works on both integer and floating point number
 
 <h6>Example</h6>
 <br/>
